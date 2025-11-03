@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-## Name: Hemavathy S
-## Registration Number: 212223230076
+## Name: RAKSHITHA P
+## Registration Number: 212223220083
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
